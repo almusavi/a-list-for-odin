@@ -1,28 +1,5 @@
-== README
+# A List for Odin
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+A list for Odin is a client project that allows a user to create a list of board they have and add it to their collection.
+It is deployed to Heroku.
+We use Ruby on Rails, Ruby, HTML, and CSS to create this website.
